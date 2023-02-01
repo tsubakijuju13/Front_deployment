@@ -70,6 +70,6 @@
     ]
   },
   "devDependencies": {
-    "@types/node": "^16.19.0"
+    "@types/node": "^18.11.18"
   }
 }
